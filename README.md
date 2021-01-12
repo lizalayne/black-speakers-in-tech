@@ -213,6 +213,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Career transition into Tech, Personal Leadership, STEM communication and engaging young people
 - Location - London, England
 
+#### Liza Layne
+
+- [@lizalayne](http://twitter.com/lizalayne)
+- Topics - Data Analytics, Business Intelligence, Data Warehousing, DataOps, Mentoring, Women into Tech Advocacy, Diversity and Inclusion in Tech
+- Location -  London, England
+
 ### Kenya
 
 #### Juma Allan
